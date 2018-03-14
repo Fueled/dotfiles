@@ -1,0 +1,6 @@
+default_context:
+    full_name: "first_name last_name"
+    email: "name@fueled.com"
+    github_username: "fueled-your-name"
+cookiecutters_dir: "~/.cookiecutters/"
+
